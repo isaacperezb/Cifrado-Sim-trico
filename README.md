@@ -39,7 +39,8 @@ Y una vea tengamos el fichero lo desencriptaremos con el comando correspondiente
 ![Descifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/8.JPG)
 ![contraseña descifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/9.JPG)
 
-Ahora vamos a crear nuevos ficheros y encruiptarlos con otros algoritmos.
+Ahora vamos a crear nuevos ficheros y encruiptarlos con otros algoritmos, siguiendo los mismos pasos que antes: comando de encriptado, contraseña, pasarlo por FTP y desencriptarlo en la otra máquina.
+
 ### BLOWFISH
 ![BLOWFISH](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/12.JPG) 
 ![descifrado blowfish](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/14.JPG)
