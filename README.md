@@ -77,6 +77,24 @@ Los parametros del comando son los siguientes:
 - aes-128-cbc --> es el algoritmo que vamos a utilizar para encriptar el fichero.
 - in --> en el fichero a encriptar, en este caso open.txt
 - out --> fichero encriptado con el nombre que hayamos decidido, en mi caso le he puesto cifrado.enc
+Una vez aceptemos nos pedirá que escribamos la contraseña con la que queremos cifrar y que la confirmemos.
+
+![cifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/1.JPG)
+
+Para descifrar utilizaríamos el siguiente comando:
+**openssl aes-128-cbc -d -in cifrado.enc -out descifrado**
+Las opciones serían iguales que con el comando de cifrado pero añadiriamos -d para indicar que vamos a descifrar y en -in pondríamos el fichero cifrado y en -out el fichero descifrado con el nombre que hayamos querido ponerle.
+Al aceptar nos pedirá la contraseña puesta al cifrarlo y lo tendríamos descifrado.
+
+![descifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/2.JPG)
+
+Vamos a realizar una serie de cifrados del mismo fichero pero con diferentes algoritmos.
+
+**rc4**
+![rc4](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/8.JPG)
+
+**chacha20**
+![chacha20](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/9.JPG)
 
 ### Bibliografía
 - https://tutonics.com/2012/11/gpg-encryption-guide-part-4-symmetric.html
