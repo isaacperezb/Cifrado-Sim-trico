@@ -56,3 +56,9 @@ Ahora vamos a crear nuevos ficheros y encruiptarlos con otros algoritmos, siguie
 Podemso encriptar con todos los algoritmos que tiene GPG siguiendo el comando que hemos estado utilizando para encriptar con BLOWFISH y 3DES (gpg --symmetric --cipher-algo NOMBRE_ALGORITMO NOMBRE_FICHERO) y para desencriptar siempre usaremos el mismo comando (gpg -d NOMBRE_FICHERO.gpg)
 
 ## OpenSSL
+
+
+
+### Bibliografía
+- https://tutonics.com/2012/11/gpg-encryption-guide-part-4-symmetric.html
+- 
