@@ -55,6 +55,12 @@ Ahora vamos a crear nuevos ficheros y encruiptarlos con otros algoritmos, siguie
 
 Podemso encriptar con todos los algoritmos que tiene GPG siguiendo el comando que hemos estado utilizando para encriptar con BLOWFISH y 3DES (gpg --symmetric --cipher-algo NOMBRE_ALGORITMO NOMBRE_FICHERO) y para desencriptar siempre usaremos el mismo comando (gpg -d NOMBRE_FICHERO.gpg)
 
+Para ponerle el nombre que nosotros queramos al archivo encriptado para que por defecto no nos aparezca con el mismo nombre y la extensión gpg debemos poner la opción -o 
+![crear_fichero](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/18.JPG)
+![nombre_que_queramos](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/19.JPG)
+![resultado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/22.JPG)
+
+
 ## OpenSSL
 
 
