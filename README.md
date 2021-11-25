@@ -77,6 +77,7 @@ Los parametros del comando son los siguientes:
 - aes-128-cbc --> es el algoritmo que vamos a utilizar para encriptar el fichero.
 - in --> en el fichero a encriptar, en este caso open.txt
 - out --> fichero encriptado con el nombre que hayamos decidido, en mi caso le he puesto cifrado.enc
+
 Una vez aceptemos nos pedirá que escribamos la contraseña con la que queremos cifrar y que la confirmemos.
 
 ![cifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/1.JPG)
