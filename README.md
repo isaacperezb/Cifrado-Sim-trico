@@ -100,6 +100,21 @@ Vamos a realizar una serie de cifrados del mismo fichero pero con diferentes alg
 **des**
 ![des](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/10.JPG)
 
+Ahora vamos a hacer la prueba de pasarlo por FTP a otra máquina la cual la controla Pepe y el quiere desencriptar el mensaje.
+Lo primero que Pepe debe saber es la clave que le hemos puesto al mensaje o sino no podre ver el contenido.
+
+Primero crearemos el archivo a cifrar y lo ciframos.
+![creción pepe.txt](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/11.JPG)
+![cifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/12.JPG)
+
+Ahora lo pasamos por FTP a Pepe
+
+![FTP](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/13.JPG)
+
+Y Pepe al saber la clave usada para cifrar podrá descifrarlo.
+
+![descifrado de Pepe](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/14.JPG)
+
 ### Bibliografía
 - https://tutonics.com/2012/11/gpg-encryption-guide-part-4-symmetric.html
 - https://www.openssl.org/docs/manmaster/man1/openssl-enc.html
