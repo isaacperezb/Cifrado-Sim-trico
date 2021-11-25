@@ -70,8 +70,15 @@ Para descifrar en formato de ASCII usaremos la opción -o para indicarle el nomb
 
 ## OpenSSL
 
-
+Vamos a realizar varias pruebas de cifrado simétrico con OpenSSL utilizando diferentes algoritmos.
+Para ello voy a crear el ficher open.txt y lo ire cifrado con los algoritmos, usando el siguiente comando:
+**openssl aes-128-cbc -in open.txt -out cifrado.enc**
+Los parametros del comando son los siguientes:
+- aes-128-cbc --> es el algoritmo que vamos a utilizar para encriptar el fichero.
+- in --> en el fichero a encriptar, en este caso open.txt
+- out --> fichero encriptado con el nombre que hayamos decidido, en mi caso le he puesto cifrado.enc
 
 ### Bibliografía
 - https://tutonics.com/2012/11/gpg-encryption-guide-part-4-symmetric.html
-- 
+- https://www.openssl.org/docs/manmaster/man1/openssl-enc.html
+- https://lamiradadelreplicante.com/2015/12/26/cifrado-de-archivos-con-openssl/
