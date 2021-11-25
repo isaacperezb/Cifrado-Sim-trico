@@ -60,6 +60,13 @@ Para ponerle el nombre que nosotros queramos al archivo encriptado para que por 
 ![nombre_que_queramos](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/19.JPG)
 ![resultado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/22.JPG)
 
+Para cifrar en formato ASCII debemos poner la opción --armor.
+
+![ASCII](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/20.JPG)
+
+Para descifrar en formato de ASCII usaremos la opción -o para indicarle el nombre del fichero que queremos para identificarlo de forma fácil y la opción por defecto para desencriptar -d.
+
+![descifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/21.JPG)
 
 ## OpenSSL
 
