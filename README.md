@@ -96,6 +96,9 @@ Vamos a realizar una serie de cifrados del mismo fichero pero con diferentes alg
 **chacha20**
 ![chacha20](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/9.JPG)
 
+**des**
+![des](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/10.JPG)
+
 ### Bibliografía
 - https://tutonics.com/2012/11/gpg-encryption-guide-part-4-symmetric.html
 - https://www.openssl.org/docs/manmaster/man1/openssl-enc.html
