@@ -92,12 +92,17 @@ Al aceptar nos pedirá la contraseña puesta al cifrarlo y lo tendríamos descif
 Vamos a realizar una serie de cifrados del mismo fichero pero con diferentes algoritmos.
 
 **rc4**
+
 ![rc4](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/8.JPG)
 
+
 **chacha20**
+
 ![chacha20](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/9.JPG)
 
+
 **des**
+
 ![des](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/10.JPG)
 
 Ahora vamos a hacer la prueba de pasarlo por FTP a otra máquina la cual la controla Pepe y el quiere desencriptar el mensaje.
