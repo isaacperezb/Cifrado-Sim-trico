@@ -46,6 +46,12 @@ Ahora vamos a crear nuevos ficheros y encriptarlos con otros algoritmos, siguien
 
 ### BLOWFISH
 ![BLOWFISH](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/12.JPG) 
+
+Las opciopnes son:
+- --symmetric --> para cifrar de forma simétrica
+- --cipher-algo NOMBRE_ALGORITMO --> para indicar con que algoritmo de GPG queremos cifrar el archivo
+
+
 ![descifrado blowfish](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/GPG/14.JPG)
 
 ### 3DES
