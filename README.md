@@ -120,6 +120,10 @@ Y Pepe al saber la clave usada para cifrar podrá descifrarlo.
 
 ![descifrado de Pepe](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/14.JPG)
 
+## Enlave al video
+
+[Criptografía Simétrica](https://youtu.be/CQByVnNdN-c)
+
 ### Bibliografía
 - https://tutonics.com/2012/11/gpg-encryption-guide-part-4-symmetric.html
 - https://www.openssl.org/docs/manmaster/man1/openssl-enc.html
