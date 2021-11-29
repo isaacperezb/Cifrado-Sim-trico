@@ -4,7 +4,7 @@ Utilizamos una misma clave para cifrar y descifrar los datos que vamos a mandar 
 
 Es como si queremos llevarle un papel muy importante de nuestra empresa a un abogado y lo llevamos en una carpeta, a simple vista no podrán ver el contenido del papel, pero sigue siendo susceptible de que puedan quitarnos la carpeta y ver el contenido con total claridad.
 
-En esta práctica nos centraremos en el cifrado simétrico tanto con GPG como con OpenSSL.
+En esta práctica nos centraremos en el cifrado simétrico tanto con GPG como con OpenSSL. Para ello ambas máquinas deben verse y una de ella debe actuar como router para poder ver con wireshark los paquetes que se envían.
 
 ## GPG
 El cifrado simétrico en comparación con el asimétrico es más rápido, pero también más inseguro ya que la compartición de la clave secreta se puede ver comprometida por un tercero. En cambio, en el cifrado asimétrico publicamos nuestra clave publica y cuando nos envíen datos, se encriptarán con dicha clave pública siendo nosotros los únicos que poseemos la clave privada solo nosotros podremos ver el contenido.
@@ -120,7 +120,7 @@ Y Pepe al saber la clave usada para cifrar podrá descifrarlo.
 
 ![descifrado de Pepe](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/14.JPG)
 
-## Enlave al video
+## Enlace al video
 
 [Criptografía Simétrica](https://youtu.be/CQByVnNdN-c)
 
