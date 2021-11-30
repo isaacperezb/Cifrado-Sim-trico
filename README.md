@@ -122,6 +122,7 @@ Ahora vamos a hacer la prueba de pasarlo por FTP a otra máquina la cual la cont
 Lo primero que Pepe debe saber es la clave que le hemos puesto al mensaje o sino no podrá ver el contenido.
 
 Primero crearemos el archivo a cifrar y lo ciframos.
+
 ![creación pepe.txt](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/11.JPG)
 ![cifrado](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/12.JPG)
 
