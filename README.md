@@ -136,7 +136,7 @@ Y Pepe al saber la clave usada para cifrar podrá descifrarlo.
 
 ## Enlace al video
 
-[Criptografía Simétrica](https://www.youtube.com/watch?v=u9F9x82RrnQ)
+[Criptografía Simétrica](https://www.youtube.com/watch?v=qN5fwEqG8Yk)
 
 ### Bibliografía
 - https://tutonics.com/2012/11/gpg-encryption-guide-part-4-symmetric.html
