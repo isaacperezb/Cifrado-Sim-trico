@@ -134,6 +134,11 @@ Y Pepe al saber la clave usada para cifrar podrá descifrarlo.
 
 ![descifrado de Pepe](https://github.com/isaacperezb/Cifrado-Sim-trico/blob/main/OpenSSL/14.JPG)
 
+En el siguiente video utilizaremos dos máquinas virtuales.
+Una actuará como servidor FTP y la otra como cliente FTP y además la utilizaremos como si fuera una máquina que está en medio de la comunicación entre ambas (esto es debdio a falta de hardware) y está viendo los mensajes que solo debería ver la persona con la que queremos enviar los datos.
+
+Haremos un ejemplo con los archivos cifrados y sin cifrar.
+
 ## Enlace al video
 
 [Criptografía Simétrica](https://www.youtube.com/watch?v=qN5fwEqG8Yk)
